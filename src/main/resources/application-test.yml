@@ -1,0 +1,3 @@
+# Test environment (Proxmox test VM, auto-deployed from develop by deploy-test.yml)
+server:
+  port: 8080
